@@ -9,6 +9,7 @@ public class Demo1 {
         System.out.println(9);
         System.out.println(11);
 
+        System.out.println(100);
         System.out.println(10);
         System.out.println(99);
     }
