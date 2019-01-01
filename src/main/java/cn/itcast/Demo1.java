@@ -7,5 +7,8 @@ public class Demo1 {
         System.out.print(5);
         System.out.println(88);
         System.out.println(9);
+
+        System.out.println(10);
+        System.out.println(99);
     }
 }
